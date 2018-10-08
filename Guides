@@ -2,7 +2,7 @@ A very helpful subreddit aptly named for learning programming.
 
 https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started
 
-Learn CS:
+# Learn Computer Science:
 
 http://matt.might.net/articles/what-cs-majors-should-know/
 
@@ -10,21 +10,21 @@ What are the best....
 
 https://www.reddit.com/r/learnprogramming/comments/3r7lhp/a_collection_of_150_what_are_the_best_dev/
 
-Comparing Sites to learn to code:
+# Comparing Sites to learn to code:
 
 https://www.slant.co/topics/965/~best-websites-to-learn-to-code
 
-Learn Python:
+# Learn Python:
 
 https://realpython.com/start-here/
 
-Learn Shell:
+# Learn Shell:
 
 https://www.learnshell.org/
 
 
 
-My favorite coding blogs:
+# My favorite coding blogs:
 
 https://blog.codinghorror.com/
 
@@ -32,8 +32,12 @@ Ready for a challenge?:
 
 https://www.codewars.com/users/sign_in
 
+My coding tools:
 
-Volunteer w/ Open Source Projects:
+             Visual Studio
+https://my.visualstudio.com/?auth_redirect=true
+
+# Volunteer w/ Open Source Projects:
 
 https://up-for-grabs.net/#/
 
@@ -41,18 +45,53 @@ https://www.codetriage.com/
 
 https://openhatch.org/
 
-Free Programming Books:
+
+# Free Programming Books:
 
 https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#html--css
 
-Reference:
+Free Subscriptions and Training:
+
+LinkedIn Learning
+3 month Premium subscription via Visual Studio Code
+
+Pluralsight
+Free for 3 months via Visual Studio Code
+
+WintellectNOW
+3-month subscription via Visual Studio Code
+
+Xamarin University Training
+Free on-demand access via Visual Studio Code
+
+DataCamp
+2 month subscription via Visual Studio Code
+
+Azure App Service
+Free plan via Visual Studio Code
+
+Visual Studio App Center
+App lifecycle management via Visual Studio Code
+
+Azure DevOps
+Basic level via Visual Studio Code
+
+Azure
+Free account + $200 credit via Visual Studio Code
+
+# Reference:
 
 JavaScript - http://bonsaiden.github.io/JavaScript-Garden/
 
 HTML - http://www.htmldog.com/references/
 
-Python:
+# Python:
 
 https://docs.python.org/3/reference/index.html#reference-index
 
+Learn X in Y minutes - Python 3
+https://learnxinyminutes.com/docs/python3/
+
+The Hitchhiker's guide to Python
+https://docs.python-guide.org/
 
